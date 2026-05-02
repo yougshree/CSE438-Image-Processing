@@ -19,8 +19,8 @@ This repository includes:
 * 🖼️ **Images** – Input/output images used in the labs
 * 💻 **MATLAB Code** – Scripts and implementations for each lab task
 
-👩‍💻 Author
-Yougshree Saha Urmy
+👩‍💻 Author<br>
+Yougshree Saha Urmy<br>
 B.Sc in Computer Science & Engineering
 
 
