@@ -21,6 +21,6 @@ This repository includes:
 
 👩‍💻 Author
 Yougshree Saha Urmy
-Computer Science Graduate
+B.Sc in Computer Science & Engineering
 
 
