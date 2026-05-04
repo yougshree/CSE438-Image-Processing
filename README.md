@@ -1,4 +1,4 @@
-# CSC438 – Image Processing (Spring 2024)
+# CSC438 – Digital Image Processing (Spring 2024)
 
 This repository contains all lab work completed for the course **CSC438: Image Processing** during **Spring 2024**.
 
